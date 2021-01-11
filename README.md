@@ -1,4 +1,4 @@
-# kickstarter-
+# kickstarter
 Kickstarter Success Classifier predicts if a project will be successful before it is released?!
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
