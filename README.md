@@ -9,3 +9,6 @@ Kickstarter Success Classifier predicts if a project will be successful before i
 Check out the app: https://will-it-kickstart.herokuapp.com/
 
 Application quick demo: 
+
+### Source of the dataset: 
+https://www.kaggle.com/kemical/kickstarter-projects
