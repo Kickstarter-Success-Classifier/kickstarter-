@@ -6,6 +6,6 @@ Kickstarter Success Classifier predicts if a project will be successful before i
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS-green)
 ![Paas](https://img.shields.io/badge/Paas-Heroku-orange)
 
-Check out the app: 
+Check out the app: https://will-it-kickstart.herokuapp.com/
 
 Application quick demo: 
