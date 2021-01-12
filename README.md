@@ -10,5 +10,18 @@ Check out the app: https://will-it-kickstart.herokuapp.com/
 
 Application quick demo: 
 
+
+How to run the app?
+
+• Clone this repository in your local system.
+
+• Install all the dependencies in the pipfile.lock file.
+
+• Open the command prompt from your project directory and run the command 'python app.py'.
+
+• Go to your browser and type http://127.0.0.1:5000/ in the address bar.
+
+• ALL SET! 
+
 ### Source of the dataset: 
 https://www.kaggle.com/kemical/kickstarter-projects
