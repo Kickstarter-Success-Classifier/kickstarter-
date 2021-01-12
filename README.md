@@ -10,12 +10,13 @@ Check out the app: https://will-it-kickstart.herokuapp.com/
 
 Application quick demo: 
 
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/67918990/104268239-6e0f7600-5461-11eb-9ccf-4d19d783cabc.gif)
 
 How to run the app?
 
 • Clone this repository in your local system.
 
-• Install all the dependencies in the pipfile.lock file.
+• Run the command 'pipenv sync' to install all the dependencies in the pipfile.lock file.
 
 • Open the command prompt from your project directory and run the command 'python app.py'.
 
@@ -24,4 +25,5 @@ How to run the app?
 • ALL SET! 
 
 ### Source of the dataset: 
+
 https://www.kaggle.com/kemical/kickstarter-projects
