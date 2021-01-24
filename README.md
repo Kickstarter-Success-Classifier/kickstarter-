@@ -6,13 +6,34 @@ Kickstarter Success Classifier predicts if a project will be successful before i
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS-green)
 ![Paas](https://img.shields.io/badge/Paas-Heroku-orange)
 
-Check out the app: https://will-it-kickstart.herokuapp.com/
+## Overview of the project:
 
-Application quick demo: 
+•	Collaborated remotely with a team of 4
+
+•	Fixed high cardinality in the dataset by either deleting or using ordinal encoding 
+
+•	Found the leakage in the dataset 
+
+•	Built models using scikit-learn and Keras for performance comparison
+
+•	Feature Engineering helped to increase the model performance 
+
+•	Used Gradient Boost Classifier as the predictor over LSTM as it gave better performance 
+
+•	CSS and HTML were used for the front-end
+
+•	Web Application was deployed on Heroku 
+
+
+## Check out the app: 
+
+https://will-it-kickstart.herokuapp.com/
+
+## Application quick demo: 
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/67918990/104268239-6e0f7600-5461-11eb-9ccf-4d19d783cabc.gif)
 
-How to run the app?
+## How to run the app?
 
 • Clone this repository in your local system.
 
