@@ -14,7 +14,7 @@ Kickstarter Success Classifier predicts if a project will be successful before i
 
 •	Found the leakage in the dataset 
 
-•	Built models using scikit-learn and Keras for performance comparison
+•	Built models using scikit-learn and Tensorflow for performance comparison
 
 •	Feature Engineering helped to increase the model performance 
 
