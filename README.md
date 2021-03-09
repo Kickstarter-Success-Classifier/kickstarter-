@@ -5,6 +5,8 @@ Kickstarter Success Classifier predicts if a project will be successful before i
 ![Framework](https://img.shields.io/badge/Framework-Flask-yello)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS-green)
 ![Paas](https://img.shields.io/badge/Paas-Heroku-orange)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit_Learn-cyan)
+![Neural Network](https://img.shields.io/badge/Neural_Network-Tensorflow-red)
 
 ## Overview of the project:
 
